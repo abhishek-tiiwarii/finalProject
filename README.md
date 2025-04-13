@@ -7,7 +7,7 @@ This is Project Cura. Cura is an intelligent chatbot built on GPT-4O-mini, fine-
 Clone the repository
 
 ```bash
-Project repo: https://github.com/abhishek-tiiwarii/finalProject.git
+git clone https://github.com/abhishek-tiiwarii/finalProject.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
